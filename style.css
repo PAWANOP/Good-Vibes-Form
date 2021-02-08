@@ -1,0 +1,345 @@
+.container{
+	background-color: #ECECB4;
+	width: 100%;
+	height: 1980px;
+	font-family: 'Anaheim', sans-serif;
+	scroll-behavior: none;
+}
+
+.maincontent{
+	height: 1780px;
+	width: 1100px;
+	background-color: white;
+	text-align: center;
+	top: 120%;
+	left: 50%;
+	transform: translate(-50% ,-50%);
+	position: absolute;
+	border-radius: 30px;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+
+.maincontent h1{
+	padding-top: 20px;
+	word-spacing: 7px;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	font-size: 42px;
+	
+}
+
+.maincontent p{
+	font-weight: lighter;
+	text-align: left;
+	font-size: 30px;
+	padding-left: 30px;
+	word-spacing: 3px;
+}
+
+.Personal{
+	height: 575px;
+	width: 1053px;
+	border: 1px solid black;
+	margin: 20px
+}
+
+legend{
+	font-weight: 700;
+    position: absolute;
+    top:183px;
+    left: 60px;
+    font-size: 25px;
+
+}
+
+.naming{
+	text-align: left;
+	padding-left: 30px;
+	padding-top: 30px;
+}
+
+#names{
+	font-size: 25px;
+}
+
+#name-label{
+	font-size: 20px;
+}
+
+.addresing{
+	text-align: left;
+	padding-top: 30px;
+	padding-left: 30px;
+	
+}
+
+#Addresses{
+font-size: 25px;
+}
+
+#address-label{
+	font-size: 20px;
+}
+
+
+.emailing{
+	text-align: left;
+	padding-top: 30px;
+	padding-left: 30px;
+	
+}
+
+#emails{
+	font-size: 25px;
+
+}
+
+#email-label{
+	font-size: 20px;
+}
+
+.phoning{
+	text-align: left;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+
+#phones{
+	font-size: 25px;
+
+}
+
+#phone-number-label{
+   font-size: 20px;
+   width: 200px;
+}
+
+.iging{
+	text-align: left;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+
+#iq{
+	font-size: 25px;
+}
+
+#iq-label{
+	font-size: 20px;
+}
+
+.gendering{
+	text-align: left;
+	padding-top: 30px;
+	padding-left: 30px;
+	font-size: 25px;
+}
+
+.maling{
+	text-align: left;
+	padding-left: 30px;
+	padding-top: 20px;
+}
+
+#males{
+	font-size: 25px;
+}
+
+.femaling{
+	text-align: left;
+	padding-left: 30px;
+	padding-top: 2px;
+}
+
+
+#females{
+	font-size: 25px;
+}
+
+
+.othering{
+	text-align: left;
+	padding-left: 30px;
+	padding-top: 2px;
+}
+
+#others{
+	font-size: 25px;
+}
+
+.dating{
+	text-align: left;
+	padding-left: 30px;
+	padding-top: 30px;
+}
+
+#dates{
+	font-size: 25px;
+}
+
+#date-label{
+	font-size: 20px;
+}
+
+
+.apply{
+	border: 1px solid black;
+	height: 280px;
+	width: 1053px;
+	margin: 20px;
+}
+
+.upper{
+	text-align: left;
+	padding-top: 5px;
+	padding-left: 30px;
+}
+
+.upper label{
+	font-size: 25px;
+}
+
+.tattos  {
+	text-align: left;
+	padding-left: 30px;
+	padding-top: 20px;
+	font-size: 20px;
+}
+
+.Checkboxes{
+	text-align: left;
+	padding-left: 30px;
+	padding-top: 5px;
+	font-size: 20px;
+}
+
+.panel{
+	text-align: left;
+	padding-left: 30px;
+    padding-top: 5px;
+    font-size: 20px;
+}
+
+.work{
+	text-align: left;
+	padding-left: 30px;
+	padding-top: 5px;
+	font-size: 20px;
+}
+
+.well {
+	text-align: left;
+	padding-left: 30px;
+	padding-top: 5px;
+	font-size: 20px;
+}
+
+
+.political-educate{
+    border: 1px solid black;
+    width: 1024px;
+    margin: 20px;
+    height: 50px;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 12px;
+}
+
+.poll{
+	font-size: 25px;
+}
+
+.educ{
+	font-size: 25px;
+	margin-left: 10px;
+}
+
+#dropdown{
+   font-size: 18px;
+}
+
+
+#dropdown2{
+   font-size: 20px;
+   width: 150px;
+}
+
+.Essaysection{
+	height: 490px;
+	width: 1053px;
+	border: 1px solid black;
+	margin: 20px;
+}
+
+.essay{
+	text-align: left;
+	padding-left: 40px;
+}
+
+.essay label{
+	position: absolute;
+	top: 1165px;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.dot {
+	text-align: left;
+	padding-left: 30px;
+	padding-top: 40px;
+	font-size: 25px;
+}
+
+
+.mes{
+	padding-left: 30px;
+	padding-top: 20px;
+	text-align: left;
+}
+
+.refe{
+	padding-left: 30px;
+	text-align: left;
+	padding-top: 20px;
+	font-size: 25px;
+}
+
+.tet{
+	text-align: left;
+	padding-left: 30px;
+	padding-top: 20px;
+}
+
+.par {
+	text-align: left;
+	
+}
+
+.par p{
+	font-size: 25px;
+}
+
+.cert p{
+	text-align: left;
+	font-size: 25px;
+}
+
+button{
+	margin-left: 20px;
+	border: none;
+	background-color: red;
+	color: white;
+	padding: 8px 10px;
+	font-size: 23px;
+}
+
+
+.submitbutton{
+
+}
+
+fieldset{
+	height: 1980px;
+}
+
